@@ -29,6 +29,7 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 - **[Number Forecast](https://number-forcast.netlify.app)** – Predicting numbers like a fortune teller! 🔮
 - **[Task Master](https://task-master04.netlify.app)** – Manage tasks like the boss you are! 👑
 - **[TipsyBilly](https://tipsy-billy.netlify.app)** – Calculate tips effortlessly with style. 💸
+- **[NanoTick](https://nanotick.netlify.app/)** – Master time with precision and ease! ⏱️
   
 *Click around, no bugs guaranteed (well... maybe)!* 😜
 
