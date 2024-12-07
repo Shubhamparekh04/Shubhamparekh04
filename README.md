@@ -30,6 +30,7 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 - **[Task Master](https://task-master04.netlify.app)** – Manage tasks like the boss you are! 👑
 - **[TipsyBilly](https://tipsy-billy.netlify.app)** – Calculate tips effortlessly with style. 💸
 - **[NanoTick](https://nanotick.netlify.app/)** – Master time with precision and ease! ⏱️
+- **[Qzify](https://qzify.netlify.app/)** – Simplify your quiz-taking experience with ease and fun! 📝
   
 *Click around, no bugs guaranteed (well... maybe)!* 😜
 
