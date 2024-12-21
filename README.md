@@ -31,6 +31,7 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 - **[TipsyBilly](https://tipsy-billy.netlify.app)** – Calculate tips effortlessly with style. 💸
 - **[NanoTick](https://nanotick.netlify.app/)** – Master time with precision and ease! ⏱️
 - **[Qzify](https://qzify.netlify.app/)** – Simplify your quiz-taking experience with ease and fun! 📝
+- **[flipymart]((https://flipymart.netlify.app/))** –  Your one-stop shop for seamless and fun online shopping! 🛒
   
 *Click around, no bugs guaranteed (well... maybe)!* 😜
 
