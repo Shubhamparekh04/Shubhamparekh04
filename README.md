@@ -33,6 +33,7 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 - **[Qzify](https://qzify.netlify.app/)** – Simplify your quiz-taking experience with ease and fun! 📝
 - **[flipymart](https://flipymart.netlify.app/)** –  Your one-stop shop for seamless and fun online shopping! 🛒
 - **[Bahgwat Geeta](https://bgeeta.netlify.app/)** –  Discover the timeless wisdom of the Bhagavad Gita! 📜
+- **[Dog-Zilla](https://dog-zilla.netlify.app/)** –  Unleash your love for dogs with this pawsome experience! 🐾
   
 *Click around, no bugs guaranteed (well... maybe)!* 😜
 
