@@ -8,8 +8,10 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 ## **🚀 Projects:**
 
 ## **🖥️ Node.js & Express.js Creations**
-- **[🎬 Movie Website (Admin CRUD & Client Side)](https://movies-zsd5.onrender.com/signin)** – A dynamic movie platform powered by Node.js, Express, and MongoDB! 🎥📽️
-- **[📚 Book Store (Admin CRUD & Client Side)](https://book-store-rm76.onrender.com/)** – A online book store with admin-side CRUD operations! 📖📘
+- **[🎬 CineVerse (Movie App)](https://movies-zsd5.onrender.com/signin)**
+  **Login Credentials:** admin | Password: 123 – A dynamic movie platform powered by Node.js, Express, and MongoDB! 🎥📽️
+- **[📚 Book Store](https://book-store-rm76.onrender.com/)**
+  **Login Credentials:** admin | Password: 123 – A full-fledged online book store with admin-side CRUD operations! 📖📘
 - **[✅ To-Do App (CRUD with Express & Static Array)](https://to-do-list-m5w9.onrender.com/)** – Keep track of your tasks with this simple yet effective to-do list! 🗓️📝
 
 ## **🎨 HTML-CSS Masterpieces** 
