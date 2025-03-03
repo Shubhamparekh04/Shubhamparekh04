@@ -8,7 +8,7 @@ I’m on a quest to build **dynamic web applications** that not only look great 
 ## **🚀 Projects:**
 
 ## **🖥️ Node.js & Express.js Creations**
-- **[🎬 CineVerse (Movie App)](https://movies-zsd5.onrender.com/signin)**
+- **[🎬 CineVerse (Movie App)](https://movies-zsd5.onrender.com)**
   **Login Credentials:** admin | Password: 123 – A dynamic movie platform powered by Node.js, Express, and MongoDB! 🎥📽️
 - **[📚 Book Store](https://book-store-rm76.onrender.com/)**
   **Login Credentials:** admin | Password: 123 – A online book store with admin-side CRUD operations! 📖📘
